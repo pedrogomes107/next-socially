@@ -10,6 +10,8 @@ Build a Social App
 
 #### `npm install @clerk/nextjs`
 
+#### `npm install next-themes`
+
 ## Run App Locally:
 
 #### `npm run dev`
