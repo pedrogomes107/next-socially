@@ -16,6 +16,8 @@ Build a Social App
 
 #### `npm install @prisma/client`
 
+#### `npm install react-hot-toast`
+
 ## Run App Locally:
 
 #### `npm run dev`
