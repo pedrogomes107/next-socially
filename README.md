@@ -12,6 +12,10 @@ Build a Social App
 
 #### `npm install next-themes`
 
+#### `npm install prisma --save-dev`
+
+#### `npm install @prisma/client`
+
 ## Run App Locally:
 
 #### `npm run dev`
