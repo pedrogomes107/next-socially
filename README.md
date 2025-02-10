@@ -20,6 +20,8 @@ A modern social media application powered by Next.js
 
 #### `npm install date-fns`
 
+#### `npm install uploadthing @uploadthing/react`
+
 ## Run App Locally:
 
 #### `npm run dev`
