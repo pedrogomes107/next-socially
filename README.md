@@ -4,6 +4,8 @@ A modern social media application powered by Next.js
 
 ## Demo:
 
+https://next-socially.vercel.app/
+
 ## Install npm Packages:
 
 #### `npm install`
