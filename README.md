@@ -1,6 +1,6 @@
 # Socially
 
-Build a Social App
+A modern social media application powered by Next.js
 
 ## Demo:
 
