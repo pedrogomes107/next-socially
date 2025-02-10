@@ -18,6 +18,8 @@ Build a Social App
 
 #### `npm install react-hot-toast`
 
+#### `npm install date-fns`
+
 ## Run App Locally:
 
 #### `npm run dev`
